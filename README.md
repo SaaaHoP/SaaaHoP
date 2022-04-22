@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717?&style=plastic&logo=GitHub&logoColor=white"/>
   <img alt="GitKraken" src ="https://img.shields.io/badge/GitKraken-179287?&style=plastic&logo=GitKraken&logoColor=white"/>
   <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?&style=plastic&logo=Postman&logoColor=white"/>
-  <img alt="CodePen" src ="https://img.shields.io/badge/CodePen-000000?&style=plastic&logo=CodePen&logoColor=white"/>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B?&style=plastic&logo=Slack&logoColor=white"/>
   <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC?&style=plastic&logo=Jira&logoColor=white"/>
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E?&style=plastic&logo=Figma&logoColor=white"/>
