@@ -51,5 +51,5 @@ Here are some ideas to get you started:
   
 <h4 align="center"> 🥇 GitHub stats 🥇 </h4>
 
-[![SaaaHoP's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaaHoP&show_icons=true&theme=rose_pine?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![SaaaHoP's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=SaaaHoP&show_icons=true&theme=rose_pine?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SaaaHoP's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaaHoP&show_icons=true&theme=rose_pine&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SaaaHoP's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=SaaaHoP&show_icons=true&theme=rose_pine&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
