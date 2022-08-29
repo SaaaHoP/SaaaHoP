@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=plastic&logo=CSS3&logoColor=white"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=plastic&logo=JavaScript&logoColor=white"/>
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6?&style=plastic&logo=TypeScript&logoColor=white"/>
-  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-339933?&style=plastic&logo=MySQL&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=plastic&logo=React&logoColor=white"/>
   <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000?&style=plastic&logo=Next.js&logoColor=white"/>
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=plastic&logo=C&logoColor=white"/>
