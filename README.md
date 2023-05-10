@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6?&style=plastic&logo=TypeScript&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=plastic&logo=React&logoColor=white"/>
   <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000?&style=plastic&logo=Next.js&logoColor=white"/>
+  <img alt="React Query" src ="https://img.shields.io/badge/ReactQuery-FF4154?&style=plastic&logo=ReactQuery&logoColor=white"/>
   <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-E10098?&style=plastic&logo=GraphQL&logoColor=white"/>
   <img alt="Apollo GraphQL" src ="https://img.shields.io/badge/ApolloGraphQL-311C87?&style=plastic&logo=ApolloGraphQL&logoColor=white"/>
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=plastic&logo=C&logoColor=white"/>
